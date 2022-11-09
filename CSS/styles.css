@@ -29,7 +29,11 @@ main {
     
 }
 
+#about div {
+    display: flex;
+}
+
 #about img {
     height: 400px;
-    float: left;
+    overflow: hidden
 }
